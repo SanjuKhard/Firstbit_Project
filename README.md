@@ -1,2 +1,2 @@
 # Firstbit_Project
-This is my Spect Shop Online Purchasing Project
+Spect Shop Project at Firstbit Solution 
